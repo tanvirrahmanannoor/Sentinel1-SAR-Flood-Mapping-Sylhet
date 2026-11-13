@@ -5,4 +5,4 @@
 * **Methodology:** SAR backscatter change detection (pre-flood vs. peak-flood composite) and permanent water-body masking for flood-area identification and spatial visualization.
 
 ### Map Output
-![Sylhet and Sunamganj Flood Map](map.png)
+![Sylhet and Sunamganj Flood Map](flood_map.png)
